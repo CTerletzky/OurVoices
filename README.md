@@ -30,15 +30,16 @@ dated c. 1665. Going by various names over the centuries, it became known by its
 ## Map
 
 The AIDS Walk Wisconsin is held in Milwaukee, Wiscosin. The 10k walk has been held in various locations including a starting location at the Summerfest grounds and one along the lakefront. 
-<meta name="geo.position" content="43.05; -87.95">
+<param ve-map center="Q37836" zoom="11" prefer-geojson>
 
 ## Multiple viewers
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
 Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
+       url="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+<param ve-image 
+       url="">
 
 # References
 
