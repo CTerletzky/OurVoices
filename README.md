@@ -4,7 +4,7 @@
 <param ve-config 
        title="AIDs Walk Posters"
        author="Cora Terletzky"
-       banner=" https://collections.lib.uwm.edu/digital/iiif/arcw/212/full/full/0/default.jpg" 
+       banner="https://collections.lib.uwm.edu/digital/iiif/arcw/212/full/full/0/default.jpg" 
        layout="vertical">
 
 
