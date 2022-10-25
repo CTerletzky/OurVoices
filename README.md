@@ -4,15 +4,15 @@
 <param ve-config 
        title="AIDs Walk Posters"
        author="Cora Terletzky"
-       banner="https://collections.lib.uwm.edu/digital/api/singleitem/image/arcw/212/default.jpg" 
+       banner="https://collections.lib.uwm.edu/customizations/collection/arcw/arcw-header.jpg" 
        layout="vertical">
 
 
-# Sample visual essay
+# AIDS Walk Wisconsin Posters
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+This is a short collection of some of the AIDS walk posters from the ARCW archives at UW Milwaukee. 
 <param ve-image 
-       url="https://collections.lib.uwm.edu/digital/iiif/arcw/211/full/full/0/default.jpg">
+       url="https://collections.lib.uwm.edu/digital/iiif/arcw/212/full/full/0/default.jpg">
 
 # Basic usage
 
