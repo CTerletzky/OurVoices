@@ -2,18 +2,11 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring"
-       author="JSTOR Labs team"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       title="AIDs Walk Posters"
+       author="Cora Terletzky"
+       banner=" https://collections.lib.uwm.edu/digital/iiif/arcw/212/full/full/0/default.jpg" 
        layout="vertical">
 
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
 
 # Sample visual essay
 
@@ -50,4 +43,4 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: [AIDS Resource Center of Wisconsin(ARCW) Records](https://uwm.edu/lib-collections/arcw/)
