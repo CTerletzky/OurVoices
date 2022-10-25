@@ -14,13 +14,10 @@ This is a short collection of some of the AIDS walk posters from the ARCW archiv
 <param ve-image 
        url="https://collections.lib.uwm.edu/digital/iiif/arcw/212/full/full/0/default.jpg">
 
-# Basic usage
 
-## Image
+## Honaray Chairs
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
+Throughout the years that the AIDS walk has been run there have been many celebrity chairs. These honorary chairs were put on posters to help promote and gain interest in the fundraising walk. Several chairs have been Chastity Bono in '98, Earvin 'Magic' Johnson in '93, 
 <param ve-image 
        label="1993 poster with Earvin 'Magic' Johnson" 
        description="poster by AIDS Resource Center of Wisconsin" 
