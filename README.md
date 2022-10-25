@@ -12,16 +12,17 @@
 
 This is a short collection of some of the AIDS walk posters from the ARCW archives at UW Milwaukee. These are all the posters that feature a celeberity honorary chair.
 <param ve-image 
-       url="https://collections.lib.uwm.edu/digital/iiif/arcw/212/full/full/0/default.jpg">
+       label="1993 with Earvin 'Magic' Johnson"
+       url="https://collections.lib.uwm.edu/digital/iiif/arcw/211/full/full/0/default.jpg">
 
 
 ## Honaray Chairs
 
 Throughout the years that the AIDS walk has been run there have been many celebrity chairs. These honorary chairs were put on posters to help promote and gain interest in the fundraising walk. 
 <param ve-image 
-       label="1993 poster with Earvin 'Magic' Johnson" 
+       label="1998 with Chasity Bono" 
        description="poster by AIDS Resource Center of Wisconsin" 
-       url="https://collections.lib.uwm.edu/digital/iiif/arcw/211/full/full/0/default.jpg">
+       url="https://collections.lib.uwm.edu/digital/iiif/arcw/212/full/full/0/default.jpg">
 
 ## Map
 
