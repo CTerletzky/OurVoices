@@ -33,14 +33,18 @@ The AIDS Walk Wisconsin is held in Milwaukee, Wiscosin. The 10k walk has been he
 
 Other honorary chairs have been Chastity Bono in 1998, Earvin 'Magic' Johnson in 1993, Danny Glover in 1999, Bill Brochtrup in 2002, Justin Vernon from Bon Iver in 2009, and Clay Matthews in 2011. 
 <param ve-image 
+       label="1999 with Danny Glover"
        url="https://collections.lib.uwm.edu/digital/iiif/arcw/225/full/full/0/default.jpg">
 <param ve-image 
+       label="2002 with Bill Brochtrup"
        url="https://collections.lib.uwm.edu/digital/iiif/arcw/215/full/full/0/default.jpg">
 <param ve-image 
+       label="2009 with Justin Vernon"
        url="https://collections.lib.uwm.edu/digital/iiif/arcw/208/full/full/0/default.jpg">
-<param ve-image 
-       url="https://collections.lib.uwm.edu/digital/iiif/arcw/196/full/full/0/default.jpg">
 
 # References
 
 [AIDS Resource Center of Wisconsin(ARCW) Records](https://uwm.edu/lib-collections/arcw/)
+<param ve-image 
+       label="2011 with Clay Matthews"
+       url="https://collections.lib.uwm.edu/digital/iiif/arcw/196/full/full/0/default.jpg">
